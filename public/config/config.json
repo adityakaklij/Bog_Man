@@ -1,0 +1,19 @@
+
+{
+  "CONTRACT_ADDRESS": "0xf6aB5ec244845B35AE66bA5c3B6a009Ed7A21c0B",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf6aB5ec244845B35AE66bA5c3B6a009Ed7A21c0B",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Bog Man",
+  "SYMBOL": "BOG",
+  "MAX_SUPPLY": 2888,
+  "WEI_COST": 9000000000000000000,
+  "DISPLAY_COST": 9,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bog-man",
+  "SHOW_BACKGROUND": true
+}
